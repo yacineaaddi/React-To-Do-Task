@@ -4,7 +4,10 @@ const Board = ({ Note, index, noteList, setNoteList }) => {
     noteList.splice(removeIndex, 1);
     console.log(index);
     console.log(removeIndex);
-    
+    setNoteList((currentTasks) =>
+      currentTasks.filter((todo) => index === removeIndex)
+    );
+    console.log(noteList);
   };
   return (
     <>
