@@ -41,13 +41,13 @@ A simple and interactive task management application built with React. This app 
 
 ## Technologies Used
 
-* **React**: Front-end JavaScript library for building user interfaces.
+* **React** : Front-end JavaScript library for building user interfaces.
 
-* **HTML & CSS**: Structure and styling of the application.
+* **HTML & CSS** : Structure and styling of the application.
 
-* **JavaScript (ES6+)**: Application logic and interactivity.
+* **JavaScript (ES6+)** : Application logic and interactivity.
 
-* **Create React App**: Toolchain to bootstrap the React application.
+* **Create React App** : Toolchain to bootstrap the React application.
 
 ## Folder Structure
 
@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/JS-Dice-Roll-Game](https://github.com/yacineaaddi/React-To-Do-Task)
+Project Link: [https://github.com/yacineaaddi/React-To-Do-Task](https://github.com/yacineaaddi/React-To-Do-Task)
