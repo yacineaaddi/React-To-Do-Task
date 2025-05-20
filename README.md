@@ -1,6 +1,6 @@
-# JS Dice Roll Game
+# React To-Do Task App
 
-A simple and fun two-player dice game built with HTML, CSS, and JavaScript. Players take turns rolling a dice to accumulate points. The first player to reach the winning score wins the game!
+A simple and interactive task management application built with React. This app allows users to create, manage, and delete tasks, helping them stay organized and productive.
 
 ## Demo
 
@@ -8,28 +8,27 @@ A simple and fun two-player dice game built with HTML, CSS, and JavaScript. Play
 
 ## Features
 
-* **Turn-Based Gameplay** : Two players alternate turns rolling a dice.  
+- **Add Tasks** : Users can add new tasks to their list.  
 
-* **Dice Roll Logic** : Random dice rolls using JavaScript simulate real gameplay. 
+- **Mark as Complete** : Tasks can be marked as done with a single click. 
 
-* **Score Tracking** : Each player's current and total scores are tracked and displayed.  
+- **Delete Tasks** : Easily remove tasks from the list.  
 
-* **Win Condition** : The game ends when a player reaches the target score.  
+- **Interactive UI** : Clean and user-friendly interface for managing tasks. 
 
-* **Reset Functionality** : A "New Game" button resets the scores and restarts the game.
+- **Dynamic Rendering** : Tasks are rendered and updated in real-time using React state.
 
 ## Installation
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/yacineaaddi/JS-Dice-Roll-Game.git
-   ```
+   git clone https://github.com/yacineaaddi/React-To-Do-Task.git
+
 
 2. Navigate to the project directory:
 
    ```bash
-   cd JS-Dice-Roll-Game
+   cd React-To-Do-Task
    ```
 
 3. Open the `index.html` file in your browser:
@@ -42,27 +41,29 @@ A simple and fun two-player dice game built with HTML, CSS, and JavaScript. Play
 
 ## Technologies Used
 
-* **HTML** : Structures the layout and content of the application.
+* **React**: Front-end JavaScript library for building user interfaces.
 
-* **CSS** : Styles the game interface for a responsive and engaging design.
+* **HTML & CSS**: Structure and styling of the application.
 
-* **JavaScript** : Implements game mechanics including dice rolling, score updates, turn switching, and win detection.
+* **JavaScript (ES6+)**: Application logic and interactivity.
+
+* **Create React App**: Toolchain to bootstrap the React application.
 
 ## Folder Structure
 
 ```
-JS-Dice-Roll-Game/
-├── index.html
-├── style.css
-├── script.js
-├── dice-1.png
-├── dice-2.png
-├── dice-3.png
-├── dice-4.png
-├── dice-5.png
-├── dice-6.png
-├── LICENSE
-└── README.md
+React-To-Do-Task/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   └── TaskItem.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+├── package.json
+├── README.md
+└── .gitignore
 ```
 
 ## Contributing
@@ -77,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/JS-Dice-Roll-Game](https://github.com/yacineaaddi/JS-Dice-Roll-Game)
+Project Link: [https://github.com/yacineaaddi/JS-Dice-Roll-Game](https://github.com/yacineaaddi/React-To-Do-Task)
