@@ -1,12 +1,12 @@
-# React To-Do Task App
+# 📦 React To-Do Task App
 
 A simple and interactive task management application built with React. This app allows users to create, manage, and delete tasks, helping them stay organized and productive.
 
-## Demo
+## 🔗 Demo
 
 *A live demo link will be added here soon.*
 
-## Features
+## ✨ Features
 
 - **Add Tasks** : Users can add new tasks to their list.  
 
@@ -18,7 +18,7 @@ A simple and interactive task management application built with React. This app 
 
 - **Dynamic Rendering** : Tasks are rendered and updated in real-time using React state.
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
@@ -39,17 +39,17 @@ A simple and interactive task management application built with React. This app 
 
    Or simply double-click the `index.html` file.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-* **React** : Front-end JavaScript library for building user interfaces.
+* ⚛️ **React** : Front-end JavaScript library for building user interfaces.
 
-* **HTML & CSS** : Structure and styling of the application.
+* 💻 **HTML & CSS** : Structure and styling of the application.
 
-* **JavaScript (ES6+)** : Application logic and interactivity.
+* 🎨 **JavaScript (ES6+)** : Application logic and interactivity.
 
-* **Create React App** : Toolchain to bootstrap the React application.
+* ⚙️ **Create React App** : Toolchain to bootstrap the React application.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
 React-To-Do-Task/
@@ -66,15 +66,15 @@ React-To-Do-Task/
 └── .gitignore
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
